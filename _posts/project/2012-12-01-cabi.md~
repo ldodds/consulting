@@ -1,0 +1,22 @@
+---
+layout: post
+title: CABI
+categories: project
+---
+Exploration of the benefits of domain-driven product design
+
+[CABI](http://www.cabi.org/) are an international not-for-profit organisation that provide expertise and information to help solve agricultural and environmental problems around the word. 
+
+As part of a wider ongoing review of their digital strategy, I undertook a project with CABI in December 2012, to explore the benefits of domain-modelling in the creation of rich information resources. The scope of the project was to:
+
+* Explore how resources from across the publishing and scientific part of the organisation could be integrated
+* Introduce the concepts of domain-modelling and ontology development to various part of the organisation
+* Undertake initial research into a domain model around invasive species management
+
+The project involved workshops with a variety of domain and technology experts and desk based research and analysis. The key deliverable was a report that provided:
+
+* Insight into how domain modelling can provide an alternative approach for building information products
+* A framework for a development of an invasive species ontology, tieing together a number of domains including geography, projects, species taxonomy, ecology and biology
+* Roadmap for potential further development, including suggested key data integration steps and proof-of-concept applications
+
+

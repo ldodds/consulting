@@ -1,0 +1,18 @@
+---
+layout: post
+title: DataMarket (DOPA Project)
+categories: project
+---
+Creating a recommended strategy for publishing statistical Linked Data
+
+[DOPA](http://www.dopa-project.eu/) is an EU funded project to explore data supply chains, markets and analytics around economical and financial data. One of the [key project partners](http://www.dopa-project.eu/index.php/about/data_market_ehf) is [DataMarket](http://www.datamarket.com/) who operate a data portal containing thousands of statistical datasets. Key datasets from their platform are to be made available as part of the project's "statistical data pool" which will be accessible as Linked Open Data.
+
+In October 2012 I worked with DataMarket to support them in the process of delivering this statistical data pool. The scope of the project was to define a strategy for publishing statistical Linked Data. This involved:
+
+* Identifying to apply key vocabularies, including DataCube and SKOS, in publishing statistical Linked Data
+* Describing how datasets in the DataMarket platform would be mapped to the DataCube model
+* Exploring options for increasing linkage between datasets both within the platform and to external sources
+* Defining the URI patterns to be used when publishing the data
+* Research into approaches for adding additional semantics to drive automated visualisation and presentation of statistical data
+
+

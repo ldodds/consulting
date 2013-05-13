@@ -1,0 +1,25 @@
+---
+layout: default
+title: Projects
+---
+
+<div class="row-fluid">
+  <div>
+	<h1>Projects</h1>
+
+	  <p>
+      To give more background on the services I offer, here are short overviews of some of my recent projects.
+	  </p>
+
+	  <ul class="posts">
+		{% for post in site.categories.project %}
+		  <li>
+			<a href="{{ post.url }}">{{ post.title }}</a> -- {{ post.date | date: "%B %Y" }}
+			<p></p>
+			<p>{{ post.excerpt }}</p>
+		  </li>
+		{% endfor %}
+	  </ul>
+
+  </div>
+</div>

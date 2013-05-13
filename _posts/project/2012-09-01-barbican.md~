@@ -1,0 +1,25 @@
+---
+layout: post
+title: Barbican Arts Ontology
+categories: project
+---
+Development of a domain model and ontology for the Arts.
+
+In September 2012 I undertook a project with [Unthinkable Consulting](http://www.unthinkableconsulting.com/) who were working with the [Barbican](http://www.barbican.org.uk) to [develop a new digital strategy](http://www.unthinkableconsulting.com/projects-strategy#barbican). A key component of that strategy was to be the creation of a rich domain model to describe the Barbican's assets and activities. The model is intended to be a key component of a future digital presence for the Barbican.
+
+The process of developing the domain model involved a series of workshops which brought together domain experts from across the entire organisation. The workshops had several goals:
+
+* Introducing the concept of domain modelling and "graph thinking" to the domain experts
+* Knowledge capture from groups of domain experts in specific fields, e.g. Arts, Theatre, Dance, Cinema, and Creative Learning
+* Knowledge sharing to identify similarities, differences and points of connection between domains
+
+These workshops were supplemented with additional review of Barbican information resources, and research of existing ontologies covering related areas.
+
+The key deliverables for the project were:
+
+* An Arts Ontology capable of capturing data from all areas of activity in the Barbican
+* Detailed documentation for the model containing a number of real-world examples from across all of the Barbican's domains
+* Proof-of-concept wireframes that provided a tangible example of how the ontology could be applied to create a richly navigable website
+
+
+

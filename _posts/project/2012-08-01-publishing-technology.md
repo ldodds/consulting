@@ -1,0 +1,26 @@
+---
+layout: post
+title: Publishing Technology
+categories: project
+---
+Semantic web application architecture review and performance testing.
+
+In 2007-08 whilst employed at Publishing Technology I designed the first version of the pub2web publishing platform. The system applied semantic web technology to create a flexible platform capable of dealing with a variety of content types and supporting enrichment of the hosted content. This was an early, production deployment of semantic web technology in the publishing industry; today many publishing and media organisations are now adopting the technology.
+
+Since that time the pub2web product has grown and now powers a number of different websites.
+
+In August 2012 I undertook a short two week project to review the pub2web architecture to:
+
+* Provide feedback on the latest architecture
+* Identify areas in which the application could be further optimised, e.g. by making more efficient use of SPARQL
+* Outline the latest options for RDF storage, to handle expected future growth of the platform
+* Undertake performance testing and tuning of key areas of the application
+
+The key deliverables for the project were:
+
+* A roadmap of short, medium and long term areas of architectural improvement. The written report was supplemented with presentations to the key engineering and operations staff
+* Results of an analysis of performance of system under different types of load and with different RDF storage options
+* A load-testing harness to support future analysis and testing
+* A new developer tool to support documentation and navigation of the application SPARQL queries and related configuration
+
+

@@ -1,0 +1,26 @@
+---
+layout: default
+title: Contact
+---
+
+<div class="row-fluid">
+  <div>
+	<h1>Contact</h1>
+
+	<p>
+	To contact me to discuss the services I offer in more detail, or to check my availability on a project, then please <a href="mailto:leigh@ldodds.com">email me</a>.
+	</p>	
+
+	<p>You can also reach me on the following services:</p>
+
+	<ul>
+		<li>On Twitter: <a href="http://twitter.com/ldodds">@ldodds</a></li>
+		<li>On <a href="http://linkedin.com/in/ldodds">LinkedIn</a></li>
+		<li>On Skype as <code>leighdodds</code></li>
+	</ul>
+	<p>
+	I'm based in Bath, in the UK.
+	</p>
+
+  </div>
+</div>
